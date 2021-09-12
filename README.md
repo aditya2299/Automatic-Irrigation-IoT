@@ -8,4 +8,5 @@ Run "python Latest1.py" and you're good to go.
 For now we have used only 2 sensors: 
 
 -> Moisture Sensor
+
 -> Humidity and temperature Sensor.
